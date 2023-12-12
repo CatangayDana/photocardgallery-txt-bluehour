@@ -194,8 +194,8 @@
     margin-right: 50px;
   }
   #page-title img{
-    max-width: 400px;
-    height: 400px;
+    max-width: 500px;
+    height: 500px;
     object-fit: cover;
     width: 100%;
     box-shadow: 5px 5px 5px 1px var(--color9);
@@ -230,7 +230,7 @@
   #Video-section{
     text-align:center;
     margin:0 auto;
-    padding:80px;
+    padding:50px;
     background-color:var(--background-color2);
   }
   
@@ -240,7 +240,7 @@
     /*height:400px;
     width:800px;*/
     height:60vh;
-    width:110vh;
+    width:1000px;
     min-width:100px;
   }
   
