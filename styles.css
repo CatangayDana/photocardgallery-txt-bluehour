@@ -82,6 +82,7 @@
     justify-content: space-around;
     flex-wrap: wrap;
     align-items: center;
+    z-index:10;
   }
   header img{
     width:130px;
