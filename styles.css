@@ -64,6 +64,11 @@
     }
     iframe{
         max-width: 400px;
+        height:300px
+    }
+    .img-logo img{
+        max-width:400px;
+        max-height:400px;
     }
   }
   header{
